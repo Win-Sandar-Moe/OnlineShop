@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Violin",
+      "quantity": 5,
+      "price": 2000,
+      "description": "Sweet Warm Sound",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "name": "Acoustic Guitar",
+      "quantity": 8,
+      "price": 450,
+      "description": "Solid spruce top with rich resonance",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 3,
+      "name": "Grand Piano",
+      "quantity": 2,
+      "price": 8500,
+      "description": "Concert quality black gloss finish",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 4,
+      "name": "Electric Bass",
+      "quantity": 12,
+      "price": 600,
+      "description": "4-string bass with active pickups",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 5,
+      "name": "Drum Kit",
+      "quantity": 4,
+      "price": 1200,
+      "description": "5-piece birch shell acoustic drum set",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 6,
+      "name": "Ukulele",
+      "quantity": 15,
+      "price": 90,
+      "description": "Soprano ukulele made from mahogany",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 7,
+      "name": "Saxophone",
+      "quantity": 6,
+      "price": 1100,
+      "description": "Alto saxophone with gold lacquer finish",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 8,
+      "name": "Flute",
+      "quantity": 10,
+      "price": 350,
+      "description": "C flute with nickel silver plated body",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 9,
+      "name": "Trumpet",
+      "quantity": 7,
+      "price": 500,
+      "description": "Bb trumpet ideal for intermediate players",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 10,
+      "name": "Synthesizer",
+      "quantity": 9,
+      "price": 950,
+      "description": "37-key analog modeling synth",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 11,
+      "name": "Cello",
+      "quantity": 3,
+      "price": 1800,
+      "description": "Handcrafted full-sized wooden cello",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 12,
+      "name": "Clarinet",
+      "quantity": 11,
+      "price": 400,
+      "description": "Bb student clarinet with durable ABS body",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 13,
+      "name": "Harmonica",
+      "quantity": 25,
+      "price": 35,
+      "description": "10-hole diatonic harmonica in key of C",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 14,
+      "name": "MIDI Keyboard Controller",
+      "quantity": 14,
+      "price": 180,
+      "description": "49 velocity-sensitive keys with drum pads",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 15,
+      "name": "Classical Guitar",
+      "quantity": 9,
+      "price": 320,
+      "description": "Nylon-string guitar for classic technique",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 16,
+      "name": "Electronic Drum Pad",
+      "quantity": 8,
+      "price": 280,
+      "description": "Portable sample pad with customizable sounds",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 17,
+      "name": "Accordion",
+      "quantity": 2,
+      "price": 1400,
+      "description": "Piano accordion with 72 bass buttons",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 18,
+      "name": "Trombone",
+      "quantity": 5,
+      "price": 650,
+      "description": "Tenor slide trombone in Bb",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 19,
+      "name": "Mandolin",
+      "quantity": 6,
+      "price": 290,
+      "description": "A-style mandolin with teardrop body",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 20,
+      "name": "Banjo",
+      "quantity": 4,
+      "price": 420,
+      "description": "5-string resonator banjo for bluegrass",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 21,
+      "name": "Studio Monitor Speakers",
+      "quantity": 10,
+      "price": 300,
+      "description": "Pair of active 5-inch studio reference speakers",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 22,
+      "name": "Condenser Microphone",
+      "quantity": 18,
+      "price": 150,
+      "description": "Large-diaphragm studio vocal mic",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 23,
+      "name": "Guitar Amplifier",
+      "quantity": 7,
+      "price": 380,
+      "description": "50W combo amp with built-in digital effects",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 24,
+      "name": "Xylophone",
+      "quantity": 3,
+      "price": 520,
+      "description": "37-note desktop xylophone with mallets",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 25,
+      "name": "Bongo Drums",
+      "quantity": 12,
+      "price": 110,
+      "description": "Tunable wood bongos with natural heads",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 26,
+      "name": "French Horn",
+      "quantity": 2,
+      "price": 2200,
+      "description": "Double French horn in F/Bb",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 27,
+      "name": "Audio Interface",
+      "quantity": 16,
+      "price": 160,
+      "description": "2-in/2-out USB audio interface with preamps",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 28,
+      "name": "Over-Ear Headphones",
+      "quantity": 20,
+      "price": 130,
+      "description": "Closed-back studio monitoring headphones",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 29,
+      "name": "Pedalboard",
+      "quantity": 8,
+      "price": 95,
+      "description": "Aluminum pedalboard with carrying bag",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 30,
+      "name": "Oboe",
+      "quantity": 3,
+      "price": 1650,
+      "description": "Conservatoire system woodwind oboe",
+      "image": "https://picsum.photos/200/300"
+    }
+  ]
+}
